@@ -1,0 +1,36 @@
+{
+    "manifest_version": 2,
+    "name": "IS LoL",
+    "version": "1.1",
+    "description": "Replaces default Faculty logos with better ones",
+    "permissions": [
+        "storage"
+    ],
+    "web_accessible_resources": [
+        "assets/*"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "https://is.muni.cz/*"
+            ],
+            "css": [
+                "css/lol.css"
+            ],
+            "js": [
+                "content_script.js"
+            ]
+        }
+    ],
+    "options_ui": {
+        "page": "options.html"
+    },
+    "browser_action": {
+        "default_popup": "options.html"
+    },
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "is-lol@jurajmarcin.com"
+        }
+    }
+}

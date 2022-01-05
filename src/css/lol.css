@@ -1,0 +1,98 @@
+img[src^="/pics/design/r6/loga/profilove/M14.svg"],
+img[src^="/pics/design/r6/loga/profilove/M14-pracoviste.svg"],
+img[src^="/pics/design/r6/loga/profilove/M1456.svg"],
+img[src^="/pics/design/r6/loga/profilove/M1416.svg"],
+img[src^="/pics/design/r6/loga/profilove/M1421.svg"],
+img[src^="/pics/design/r6/loga/profilove/M1433.svg"],
+img[src^="/pics/design/r6/loga/profilove/M1451.svg"],
+img[src^="/pics/design/r6/loga/profilove/M1423.svg"],
+img[src^="/pics/design/r6/loga/profilove/M1411.svg"],
+img[src^="/pics/design/r6/loga/profilove/M1441.svg"],
+img[src^="/pics/design/r6/loga/profilove/M1422.svg"],
+img[src^="/pics/design/r6/loga/profilove/M1431.svg"],
+img[src^="/pics/design/r6/loga/14.svg"],
+img[src^="/pics/design/r6/loga/14-pracoviste.svg"],
+img[src^="/pics/design/r6/loga/1456.svg"],
+img[src^="/pics/design/r6/loga/1416.svg"],
+img[src^="/pics/design/r6/loga/1421.svg"],
+img[src^="/pics/design/r6/loga/1433.svg"],
+img[src^="/pics/design/r6/loga/1451.svg"],
+img[src^="/pics/design/r6/loga/1423.svg"],
+img[src^="/pics/design/r6/loga/1411.svg"],
+img[src^="/pics/design/r6/loga/1441.svg"],
+img[src^="/pics/design/r6/loga/1422.svg"],
+img[src^="/pics/design/r6/loga/1431.svg"] {
+    background-size: contain !important;
+    height: 35px !important;
+    width: 35px !important;
+    padding-left: 35px !important;
+    box-sizing: border-box !important;
+}
+
+img[src^="/pics/design/r6/loga/profilove/M14.svg"],
+img[src^="/pics/design/r6/loga/14.svg"],
+img[src^="/pics/design/r6/loga/profilove/M14-pracoviste.svg"],
+img[src^="/pics/design/r6/loga/14-pracoviste.svg"],
+.logo-14 {
+    background-image: var(--image-muni) !important;
+}
+
+img[src^="/pics/design/r6/loga/profilove/M1456.svg"],
+img[src^="/pics/design/r6/loga/1456.svg"],
+.logo-1456 {
+    background-image: var(--image-esf) !important;
+}
+
+img[src^="/pics/design/r6/loga/profilove/M1416.svg"],
+img[src^="/pics/design/r6/loga/1416.svg"],
+.logo-1416 {
+    background-image: var(--image-faf) !important;
+}
+
+img[src^="/pics/design/r6/loga/profilove/M1421.svg"],
+img[src^="/pics/design/r6/loga/1421.svg"],
+.logo-1421 {
+    background-image: var(--image-ff) !important;
+}
+
+img[src^="/pics/design/r6/loga/profilove/M1433.svg"],
+img[src^="/pics/design/r6/loga/1433.svg"],
+.logo-1433 {
+    background-image: var(--image-fi) !important;
+}
+
+img[src^="/pics/design/r6/loga/profilove/M1451.svg"],
+img[src^="/pics/design/r6/loga/1451.svg"],
+.logo-1451 {
+    background-image: var(--image-fsps) !important;
+}
+
+img[src^="/pics/design/r6/loga/profilove/M1423.svg"],
+img[src^="/pics/design/r6/loga/1423.svg"],
+.logo-1423 {
+    background-image: var(--image-fss) !important;
+}
+
+img[src^="/pics/design/r6/loga/profilove/M1411.svg"],
+img[src^="/pics/design/r6/loga/1411.svg"],
+.logo-1411 {
+    background-image: var(--image-lf) !important;
+}
+
+img[src^="/pics/design/r6/loga/profilove/M1441.svg"],
+img[src^="/pics/design/r6/loga/1441.svg"],
+.logo-1441 {
+    background-image: var(--image-pdf) !important;
+}
+
+img[src^="/pics/design/r6/loga/profilove/M1422.svg"],
+img[src^="/pics/design/r6/loga/1422.svg"],
+.logo-1422 {
+    background-image: var(--image-prf) !important;
+}
+
+img[src^="/pics/design/r6/loga/profilove/M1431.svg"],
+img[src^="/pics/design/r6/loga/1431.svg"],
+.logo-1431 {
+    background-image: var(--image-pzf) !important;
+}
