@@ -22,6 +22,7 @@ img[src^="/pics/design/r6/loga/1411.svg"],
 img[src^="/pics/design/r6/loga/1441.svg"],
 img[src^="/pics/design/r6/loga/1422.svg"],
 img[src^="/pics/design/r6/loga/1431.svg"] {
+    background-repeat: no-repeat;
     background-size: contain !important;
     height: 35px !important;
     width: 35px !important;
